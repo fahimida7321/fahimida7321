@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fahimida7321
+- 👋 Hi, I’m Shaik Fahimida
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on ...
